@@ -1,20 +1,20 @@
 {
-  "name": "DARKZONE-MD",
-  "description": "Javascript WhatsApp bot made by 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟",
-  "logo": "https://files.catbox.moe/jecbfo.jpg",
-  "keywords": ["DARKZONE-MD"],
+  "name": "COPRONYX-BOT",
+  "description": "A SIMPLE YET POWERFUL BOT BY COPRONYX",
+  "logo": "https://i.postimg.cc/PJqh4Xz3/COPRONYX-COP-ESPORTS-20260207-192245.jpg",
+  "keywords": ["COPRONYX-BOT"],
   "success_url": "/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SESSION_ID",
       "required": true,
-      "value": ""
+      "value": "IK~3tZEnIYL#O4xyrStVtkghx9SGnkv95v3FfaONFhFgsRHuqbn-R3c"
     },  
     
     "STICKER_NAME": {
-      "description": "type your sticker pack name.",
+      "description": "type YOUR sticker pack na",
       "required": false,
       "value": "𝐸𝑅𝐹𝒜𝒩"
     }, 
@@ -77,7 +77,7 @@
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
-      "required": true,
+      "required": false,
       "value": "*SEEN YOUR STATUS BY DARKZONE-MD ❤️*"
    
      }, 
@@ -85,20 +85,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ERFAN"
+      "value": "NABEEL"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923306137477"
+      "value": "919562544092"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "DARKZONE-MD"
+      "value": "COPRONYX-ESPORTS"
 
       }, 
 
@@ -130,14 +130,14 @@
     
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
-      "required": false,
-      "value": "https://i.ibb.co/Sw4pzTWC/IMG-20260124-WA0728.jpg"
+      "required": true,
+      "value": "https://i.postimg.cc/PJqh4Xz3/COPRONYX-COP-ESPORTS-20260207-192245.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*CREATER 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟*"
+      "value": "*CREATOR COPRONYX-ESPORTS*"
     },
 
       "DELETE_LINKS": {
