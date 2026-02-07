@@ -8,9 +8,7 @@
     "npm": ">=10.x"
   },
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name DARKZONE-MD",
-    "stop": "pm2 stop DARKZONE-MD",
-    "restart": "pm2 restart DARKZONE-MD"
+    "start": "node index.js"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "7.0.0-rc.9",
